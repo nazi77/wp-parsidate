@@ -6,6 +6,8 @@ Requires at least: 3.0
 Tested up to: 5.1
 Stable tag: 3.1.1
 
+~Current Version:3.1.1~
+
 Persian date support for WordPress
 
 == Description ==
